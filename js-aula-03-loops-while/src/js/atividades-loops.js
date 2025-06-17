@@ -62,25 +62,33 @@ function atividade04() {
 
 // Atividade 05 - Loop for com continue e break
 function atividade05() {
+
   let saida = '';
+
   for (let i = 1; i <= 20; i++) {
     if (i % 3 === 0) continue;
     if (i > 15) break;
     console.log(i);
     saida += i + " ";
   }
+
   exibirResultado("Atividade 05:\n" + saida);
 }
 
 // Atividade 06 - Loop for...of com string
 function atividade06() {
+
   let texto = prompt("Digite uma palavra ou frase:");
+  
   let saida = '';
+
   for (let char of texto) {
     console.log(char);
     saida += char + " ";
   }
+
   exibirResultado("Atividade 06:\n" + saida);
+
 }
 
 function exibirResultado(texto) {
