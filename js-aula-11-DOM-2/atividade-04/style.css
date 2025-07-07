@@ -1,0 +1,16 @@
+    #areaMouse {
+      width: 400px;
+      height: 200px;
+      border: 2px dashed #555;
+      background-color: #f0f0f0;
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #coordenadas {
+      margin-top: 10px;
+      font-family: monospace;
+      font-weight: bold;
+    }
