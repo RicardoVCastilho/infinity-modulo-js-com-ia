@@ -5,9 +5,6 @@ Aqui você encontrará a estrutura padrão para nossos mini projetos, bem como l
 
 ---
 
-
----
-
 ## ✨ Objetivo
 
 Ensinar os conceitos fundamentais de **lógica de programação**, **manipulação de DOM**, **eventos**, **funções**, **condições**, **laços**, e outros tópicos essenciais de JavaScript, aplicando-os na prática com exercícios em HTML e CSS.
