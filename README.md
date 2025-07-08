@@ -29,4 +29,4 @@ Ensinar os conceitos fundamentais de **lógica de programação**, **manipulaç�
 A partir da aula 05 começamos a adotar um novo padrão de projetos para utilizar na execução das nossas atividades.
 Para conferir uma apresentação de como reproduzir este padrão para cada aula, confira o link:
 
-📄 [Slide explicativo do projeto no Canva]([https://www.canva.com/design/DAGr-l3B2cM/vAihYRNFQvs8kKSaOx6eJg/edit?utm_content=DAGr-l3B2cM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGsgV1Jh0Q/NcNy2VKPtrKTHtX_LWSNYQ/edit?utm_content=DAGsgV1Jh0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+📄 [Slide explicativo do projeto no Canva](https://www.canva.com/design/DAGsgV1Jh0Q/NcNy2VKPtrKTHtX_LWSNYQ/edit?utm_content=DAGsgV1Jh0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
