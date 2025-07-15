@@ -54,4 +54,13 @@ const primeiroPar = numeros3.find(function(numero) {
 
 console.log(`Primeiro número par: ${primeiroPar}`);
 
+// Método find() - Verifica se todos os elementos de um array satisfazem uma determinada condição. Ele retorna true se todos passarem no teste e false se pelo menos um elemento não satisfizer a condição.
+const numeros4 = [2, 4, 6, 8];
+
+const todosPares = numeros4.every(function(numero) {
+  return numero % 2 === 0;
+});
+
+console.log(todosPares);
+
 
